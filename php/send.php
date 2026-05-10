@@ -29,16 +29,16 @@ if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
 // Change this to the email address where you want messages sent.
 $to = "chase.a.toy@gmail.com";
 
-$subject = "New Contact Form Message from Road Ready Website";
+$subject = "New Contact Form Message from CoBay Auto Website";
 
-$body = "You received a new message from the Road Ready website:\n\n";
+$body = "You received a new message from the CoBay Auto website:\n\n";
 $body .= "First Name: " . $first_name . "\n";
 $body .= "Last Name: " . $last_name . "\n";
 $body .= "Email: " . $email . "\n";
 $body .= "Phone: " . $phone . "\n\n";
 $body .= "Message:\n" . $message . "\n";
 
-$headers = "From: Road Ready Website <no-reply@roadreadymobile.com>\r\n";
+$headers = "From: CoBay Auto Website <no-reply@cobayauto.com>\r\n";
 $headers .= "Reply-To: " . $email . "\r\n";
 
 if (mail($to, $subject, $body, $headers)) {
