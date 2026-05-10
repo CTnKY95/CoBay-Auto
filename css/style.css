@@ -1493,14 +1493,169 @@ section::before{
 .nav-toggle{
   display:none;
 
-  background:none;
-  border:none;
+  width:52px;
+  height:52px;
 
-  color:white;
+  position:relative;
 
-  font-size:2rem;
+  background:rgba(57,255,20,.08);
+
+  border:
+    1px solid rgba(57,255,20,.18);
+
+  border-radius:10px;
 
   cursor:pointer;
+
+  transition:
+    background .3s ease,
+    border-color .3s ease,
+    box-shadow .3s ease;
+}
+
+.nav-toggle:hover{
+  background:rgba(57,255,20,.14);
+
+  border-color:
+    rgba(57,255,20,.35);
+
+  box-shadow:
+    0 0 18px rgba(57,255,20,.18);
+}
+
+/* HAMBURGER LINES */
+
+.nav-toggle span{
+  position:absolute;
+
+  left:50%;
+
+  width:24px;
+  height:2px;
+
+  background:white;
+
+  border-radius:999px;
+
+  transition:
+    transform .35s ease,
+    opacity .25s ease,
+    top .35s ease;
+
+  transform:
+    translateX(-50%);
+}
+
+/* LINE POSITIONS */
+
+.nav-toggle span:nth-child(1){
+  top:17px;
+}
+
+.nav-toggle span:nth-child(2){
+  top:25px;
+}
+
+.nav-toggle span:nth-child(3){
+  top:33px;
+}
+
+/* ACTIVE STATE */
+
+.nav-toggle.active span:nth-child(1){
+  top:25px;
+
+  transform:
+    translateX(-50%)
+    rotate(45deg);
+}
+
+.nav-toggle.active span:nth-child(2){
+  opacity:0;
+}
+
+.nav-toggle.active span:nth-child(3){
+  top:25px;
+
+  transform:
+    translateX(-50%)
+    rotate(-45deg);
+}
+
+/* MOBILE NAV */
+
+@media (max-width:768px){
+
+  nav{
+    padding:1rem;
+
+    height:auto;
+
+    align-items:center;
+
+    flex-wrap:wrap;
+  }
+
+  .nav-toggle{
+    display:block;
+  }
+
+  .nav-links{
+
+    display:flex;
+
+    flex-direction:column;
+
+    align-items:flex-start;
+
+    gap:1rem;
+
+    width:100%;
+
+    max-height:0;
+
+    overflow:hidden;
+
+    opacity:0;
+
+    padding-top:0;
+
+    transform:
+      translateY(-10px);
+
+    transition:
+      max-height .4s ease,
+      opacity .3s ease,
+      transform .3s ease,
+      padding-top .3s ease;
+  }
+
+  .nav-links.show{
+
+    max-height:400px;
+
+    opacity:1;
+
+    padding-top:1rem;
+
+    transform:
+      translateY(0);
+  }
+
+  .nav-links a{
+    font-size:.9rem;
+  }
+
+  .nav-cta{
+    width:100%;
+
+    text-align:center;
+  }
+
+  .hero{
+    padding-top:140px;
+  }
+
 }
 
 /* MOBILE */

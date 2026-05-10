@@ -1,0 +1,617 @@
+================================================================================
+  COBAY AUTO MOBILE MAINTENANCE — WEBSITE CONTENT REFERENCE
+  CoBay LLC | cobayauto.com
+  Generated from: Website Content Questionnaire
+================================================================================
+
+  QUICK NAVIGATION — Jump to any section:
+
+    [1] BUSINESS BASICS
+    [2] ABOUT THE OWNER
+    [3] COMPANY STORY & VALUES
+    [4] HOMEPAGE MESSAGING
+    [5] TRUST BUILDERS
+    [6] PHOTOS & MEDIA
+    [7] SERVICES OFFERED
+    [8] PRICING STRUCTURE
+    [9] EXAMPLE PRICING (2015 Chevy Malibu LS 2.5L)
+    [10] VEHICLE TYPES & BRANDS
+    [11] LIMITATIONS
+    [12] BOOKING
+    [13] CO-REPAIR PROGRAM
+    [14] CO-REPAIR: HOW IT WORKS
+    [15] CO-REPAIR: WHAT CUSTOMERS LEARN
+    [16] CO-REPAIR: PRICING
+    [17] CO-REPAIR: SAFETY & LIMITS
+    [18] CO-REPAIR: CUSTOMER TAKEAWAYS
+    [19] CO-REPAIR: FAQ
+    [20] TONE & STYLE GUIDE
+    [21] CONTACT INFORMATION
+    [22] CALLS TO ACTION (CTA)
+    [23] ITEMS NEEDING REVIEW (flagged incomplete)
+
+  Note: Items marked ⚠ NEEDS REVIEW are flagged in the original questionnaire
+  and may need to be confirmed before publishing to the website.
+
+================================================================================
+  [1] BUSINESS BASICS
+================================================================================
+
+  Business Name:      CoBay Auto Mobile Maintenance (CoBay LLC)
+  Owner/Mechanic:     Chaz Bass
+  Phone:              912-325-3646 — call or text
+  Email:              service@cobayauto.com
+  Website Domain:     cobayauto.com
+
+  Service Area:
+    Mobile service within 25 miles of Rincon, GA at launch.
+    Serving Effingham County — Rincon, Springfield, Guyton — and nearby areas.
+    Plans to expand as demand grows.
+
+  Business Hours:     ⚠ NEEDS REVIEW
+    Evenings and weekends at launch.
+    Mon–Fri: 6pm–10pm
+    Saturday: 7:30am–3:30pm
+    Exact appointment windows to be confirmed as scheduling opens.
+
+  Emergency / After-Hours:
+    NOT a 24/7 emergency service at launch.
+    After-hours appointments may be available by request.
+
+
+================================================================================
+  [2] ABOUT THE OWNER
+================================================================================
+
+  Experience:
+    20+ years of hands-on automotive experience.
+    Automotive Technology degree, graduated 2008.
+    Approximately 3 years of dealership experience.
+    ASE certified.
+
+  Vehicles Worked On Most:
+    Passenger vehicles, SUVs, light trucks, and common daily-driver
+    maintenance and repair needs.
+
+  Why He Started CoBay:
+    "I started CoBay to make vehicle maintenance less intimidating and more
+    accessible. The goal is to help people save money, understand their
+    vehicles, and build confidence by learning skills they may have been
+    afraid to try alone. I also wanted to create a community around DIY
+    automotive repairs."
+
+  What Makes CoBay Different:
+    CoBay is built around mobile convenience, honest communication, teaching,
+    and community. Customers can choose normal mobile maintenance or Co-Repair,
+    where they learn alongside the technician instead of being left out of
+    the process.
+
+  Work Style:
+    Honest, patient, detailed, educational, transparent, safety-focused,
+    and community-centered.
+
+
+================================================================================
+  [3] COMPANY STORY & VALUES
+================================================================================
+
+  Founded:            January 2026  ⚠ NEEDS REVIEW (exact date if needed)
+
+  Problem CoBay Solves:
+    Helps customers avoid unnecessary waiting rooms, towing when possible,
+    confusion around repairs, and the feeling of being talked down to.
+    Brings practical maintenance help to the customer and explains the
+    work clearly.
+
+  How Customers Should Feel:
+    Confident, respected, informed, empowered, and comfortable asking
+    questions.
+
+  Company Values:
+    Community, education, honesty, transparency, reliability, safety,
+    quality, empowerment, and genuine love for helping people learn
+    useful skills.
+
+
+================================================================================
+  [4] HOMEPAGE MESSAGING
+================================================================================
+
+  Main Thing Visitors Should Know:
+    CoBay Auto offers mobile maintenance and Co-Repair designed to help
+    customers take care of their vehicles with confidence — not confusion.
+
+  Suggested Main Headline:
+    "Mobile Maintenance That Helps You Understand Your Vehicle, Not Just Fix It."
+
+  First Action Visitors Should Take:
+    Book Now, call/text 912-325-3646, or request a service/estimate online.
+
+
+================================================================================
+  [5] TRUST BUILDERS
+================================================================================
+
+  Years of Experience:    Mention 20+ years of hands-on automotive experience.
+
+  Repair Count:           ⚠ Do NOT list a repair count until verified.
+
+  Testimonials:           None yet. No public reviews to display at launch.
+
+  Warranties & Guarantees:
+    - CoBay-supplied parts: covered by manufacturer warranty.
+    - Customer-supplied parts: NO warranty through CoBay.
+    - Labor warranty: 12 months.
+    - Satisfaction Guarantee included.
+    - Co-Repair: Limited workmanship warranty.
+
+  Insurance:              ⚠ NEEDS REVIEW — listed as "Fully Insured"
+                           Confirm wording before publishing publicly.
+
+
+================================================================================
+  [6] PHOTOS & MEDIA
+================================================================================
+
+  Logo:               Yes — available (attach files when building site).
+
+  Current Photos:     Some repair images available.
+                      No action shots, service vehicle photos, or owner photos yet.
+                      Waiting on branded items to arrive.
+
+  Preferred Style:
+    Modern, clean, professional.
+    Color palette: black/charcoal with green accents.
+    Subtle neon/glow where appropriate.
+    Community-centered feel. Not cluttered.
+
+
+================================================================================
+  [7] SERVICES OFFERED
+================================================================================
+
+  PREVENTATIVE MAINTENANCE:
+    - Oil & filter changes
+    - Tire rotations
+    - Brake services
+    - Belts
+    - Bulbs
+    - Battery testing & replacement
+    - Fluid exchanges
+    - Tune-ups
+
+  ADDITIONAL SERVICES:
+    - Minor repairs
+    - Diagnostics
+    - Pre-purchase inspections
+    - Co-Repair (see Section [13])
+
+  ----
+
+  DIAGNOSTIC SERVICE:
+    May include: customer interview, visual inspection, OBD-II scan
+    (when applicable), basic live-data review, warning-light evaluation,
+    and clear explanation of findings. A written summary or next-step
+    recommendation will be provided.
+
+  OIL & FILTER CHANGE:
+    Includes: drain/refill, filter replacement, multipoint inspection,
+    tire pressure check, and maintenance reset when applicable.
+
+  BRAKE SERVICE:
+    May include: inspection, pad replacement, rotor evaluation/replacement
+    when needed, hardware inspection, caliper/slide pin check, and a
+    basic safety check.
+
+  BATTERY SERVICE:
+    Includes: battery testing, replacement when needed, terminal
+    cleaning/inspection, and basic charging-system check when applicable.
+
+  TUNE-UP / SPARK PLUG SERVICE:
+    Can include: spark plug replacement, air filter/cabin filter check,
+    ignition coil inspection and replacement when needed, fuel filter,
+    lubrication, and other maintenance recommendations.
+
+  STARTER / ALTERNATOR:
+    (Noted in questionnaire — details to expand.)
+
+  COOLING SYSTEM SERVICE:
+    Can include: fluid exchanges, basic coolant checks, leaks/overheating
+    evaluation, and minor hose/thermostat replacement.
+    NOTE: Major engine repair (cylinder head / gasket work) may require
+    shop referral.
+
+  CUSTOM / OTHER REPAIRS:
+    - Audio and video installation
+    - Custom bolt-on aftermarket parts and modifications
+    - LED lights / light kits
+    - Other small repairs that can be safely completed mobile
+
+
+================================================================================
+  [8] PRICING STRUCTURE
+================================================================================
+
+  Rate Type:          Both flat rate and hourly.
+    - Flat rate: used for common/standard services.
+    - Hourly: used for diagnostics, Co-Repair, and variable repairs.
+
+  Hourly Labor Rate:  $100/hr
+
+  Starting Prices:    All standard mobile services listed are starting
+                      prices and ranges.
+                      Example: Oil & filter service starts at $75.
+
+  Diagnostic Fee:     $100/hr  ⚠ NEEDS REVIEW
+                      (Note to confirm if fee is waived when repair is booked.)
+
+  Travel / Call-Out Fee:
+    - Local (Effingham County): included in pricing.
+    - Longer-distance jobs: $20 travel charge added.
+
+  Emergency / After-Hours Fee:
+    No 24/7 emergency pricing at launch.
+    Evening/weekend appointments are part of the launch model.
+    Urgent or special scheduling can be quoted case by case.
+
+  Parts Pricing Policy:
+    Parts are customer-approved before purchase.
+    Quality parts are used; pricing may include sourcing time/markup.
+    Customer-supplied parts may be accepted case by case —
+    NO warranty on the part itself through CoBay.
+
+  Consumables / Shop Supplies Fee:
+    Applied when needed (gloves, cleaners, disposal, shop towels,
+    fluid handling).
+    Standard: 5% of ticket total, max $15 charge.
+    Co-Repair: $25 flat charge.
+
+
+================================================================================
+  [9] EXAMPLE PRICING — 2015 Chevy Malibu LS 2.5L
+  (Used as a reference vehicle for the website)
+================================================================================
+
+  ⚠ NOTE: Several of these are marked "Needs Review" — confirm final
+     published prices before going live.
+
+  Diagnostic:
+    $100 (1hr) + $5 (5% shop supplies) = $105
+
+  Oil Change (Synthetic):        ⚠ NEEDS REVIEW
+    $85 (5qt synthetic oil & filter) + $4.25 (5% shop supplies) = $89.25
+
+  Front Brake Pads:              ⚠ NEEDS REVIEW
+    $228.15 (parts & labor) + $11.41 (5% shop supplies) = $239.56
+
+  Battery Replacement:           ⚠ NEEDS REVIEW
+    $280 (battery) + $60 (labor) + $15 (shop supplies max) = $355
+
+  Starter Replacement:           ⚠ NEEDS REVIEW
+    $319.79 (starter) + $150 (1.5hr labor) + $15 (shop supplies max) = $484.79
+
+  Alternator Replacement:        ⚠ NEEDS REVIEW
+    $501.24 (alternator) + $100 (1hr labor) + $15 (shop supplies max) = $616.24
+
+  Tune-Up (Spark plugs, coil boots, air filter, fuel treatment): ⚠ NEEDS REVIEW
+    $156.28 (parts) + $150 (1.5hr labor) + $15 (shop supplies max) = $321.28
+
+  AC Service (Pressure check, system function check, 1oz freon top-off max):
+    $100 service fee
+
+
+================================================================================
+  [10] VEHICLE TYPES & BRANDS
+================================================================================
+
+  Vehicles Accepted at Launch:
+    Cars, SUVs, minivans, and light-duty pickup trucks.
+    Medium/heavy-duty and specialty equipment are NOT part of the initial
+    launch unless approved case by case.
+
+  Car & Truck Brands to List:
+    Chevrolet/GMC, Ford, Dodge/Ram/Jeep, Toyota, Honda, Nissan,
+    Hyundai/Kia, Subaru, and similar daily-driver vehicles.
+
+  Medium/Heavy-Duty Brands:    ⚠ Do NOT list for launch.
+  Equipment Brands:            ⚠ Do NOT list for launch.
+
+
+================================================================================
+  [11] LIMITATIONS
+================================================================================
+
+  Jobs NOT Offered:
+    - Major engine work
+    - Transmission rebuilds
+    - Engine swaps
+    - Major suspension work requiring shop equipment
+    - Unsafe roadside jobs
+    - Jobs requiring a lift
+    - Any work that cannot be completed safely in a mobile setting
+
+  Safety / Weather / Location Requirements:
+    Work must be performed in a safe, legal, level location with adequate
+    space, lighting, and weather conditions.
+    Customer must provide access to the vehicle, keys, and permission
+    for the work area.
+
+
+================================================================================
+  [12] BOOKING
+================================================================================
+
+  How to Request Service:      ⚠ NEEDS REVIEW
+    - Call or text: 912-325-3646
+    - Submit a website form
+    - Use booking system (once active)
+    Preferred CTA: "Book Now"
+
+  Information Customers Should Provide:  ⚠ NEEDS REVIEW
+    - Name
+    - Phone number
+    - Service address
+    - Vehicle year / make / model / engine
+    - VIN (if available)
+    - Mileage
+    - Service requested
+    - Symptoms / warning lights
+    - Photos or videos (if helpful)
+    - Any parts already purchased
+
+
+================================================================================
+  [13] CO-REPAIR PROGRAM
+================================================================================
+
+  What Is Co-Repair?
+    A guided repair experience where the customer learns alongside the
+    technician. Instead of simply dropping off the vehicle mentally and
+    waiting, the customer gets explanation, guidance, and the option to
+    participate safely during eligible services.
+
+  Why It's Offered:
+    To build confidence, transparency, and community by helping people
+    learn skills they may normally be afraid to try by themselves.
+
+  Best For:
+    Beginners, DIY-curious vehicle owners, parents/teens, cost-conscious
+    customers, hands-on learners, and anyone who wants to understand what
+    is being done to their vehicle.
+
+  What Customers Walk Away With:
+    A better understanding of their vehicle, the repair performed, the
+    tools used, basic safety principles, and what maintenance may be
+    needed next.
+
+
+================================================================================
+  [14] CO-REPAIR: HOW IT WORKS
+================================================================================
+
+  Step 1 — Booking / Initial Contact:
+    Customer requests service online/by phone/text and chooses a standard
+    repair or asks about Co-Repair. Vehicle details, location, symptoms,
+    and goals are reviewed before confirming.
+
+  Step 2 — Diagnosis:
+    When diagnosis is needed, findings are walked through — explaining
+    likely causes, showing what is being checked, and discussing options
+    before repair work begins.
+
+  Step 3 — Repair / Teaching:
+    During eligible repairs, customers may watch, ask questions, and help
+    with safe tasks when appropriate. The technician remains responsible
+    for the repair process, safety, and final decisions.
+
+  Step 4 — Final Walkthrough:
+    Review what was done, what was learned, any parts replaced, what to
+    watch for, and recommended next steps.
+
+  Step 5 — Follow-Up / Written Guide:
+    Customer may receive a simple follow-up summary, checklist, parts/tool
+    notes, or maintenance recommendations depending on the service.
+
+
+================================================================================
+  [15] CO-REPAIR: WHAT CUSTOMERS LEARN
+================================================================================
+
+  Beginner Topics:
+    Oil checks/changes, battery basics, air filter checks, tire pressure,
+    fluid checks, OBD-II basics, maintenance schedules, and safe tool use.
+
+  Intermediate Topics:
+    Brake basics, spark plugs, belts, fluid services, basic diagnostics,
+    and understanding service recommendations.
+
+  Advanced Topics:
+    Advanced topics may be discussed but hands-on participation may be
+    limited for safety. Examples: electrical diagnosis, starter/alternator
+    diagnosis, fuel issues, and complex access jobs.
+
+
+================================================================================
+  [16] CO-REPAIR: PRICING
+================================================================================
+
+  Structure:          Can be offered as a separate service OR as an add-on
+                      to qualifying mobile maintenance/repair appointments.
+
+  Rate:               $100/hr  ⚠ NEEDS REVIEW (confirm final rate)
+
+  Minimum Booking:    2-hour minimum = $200 minimum charge.
+
+  Shop Supplies Fee:  $25 flat charge (instead of standard 5% fee).
+
+  Written Guides:     Simple guides/checklists can be included if requested.
+
+
+================================================================================
+  [17] CO-REPAIR: SAFETY & LIMITS
+================================================================================
+
+  Tool Use:
+    Customers may use BASIC tools only when the task is safe and supervised.
+    Technician controls: high-risk tools, jacking/lifting, torque-critical
+    steps, and all safety-critical decisions.
+    A signed waiver is required before booking.
+
+  Physical Participation:
+    Yes — but only when safe, supervised, and appropriate.
+    Some jobs may be observe-only.
+
+  When Co-Repair Is NOT Available:
+    - Unsafe locations
+    - Severe weather
+    - Heavy/unstable work
+    - High-voltage systems
+    - Major engine or transmission work
+    - Tasks requiring a lift or shop-only equipment
+
+  Waiver Required:    Yes — Co-Repair participation/safety waiver must be
+                      signed before any hands-on participation.
+
+  Guests:
+    One guest may be allowed with advance approval.
+    Minors must have a parent/guardian present.
+    All participants must follow safety rules.
+
+
+================================================================================
+  [18] CO-REPAIR: CUSTOMER TAKEAWAYS
+================================================================================
+
+  Step-by-Step Guide:   Yes — a simple checklist or recap can be emailed
+                         or provided after the appointment when practical.
+
+  Parts List:           Yes — parts replaced, recommended parts, and future
+                         maintenance items can be listed when relevant.
+
+  Tool List:            Yes — basic tools used and recommended beginner
+                         toolkit items can be provided when relevant.
+
+
+================================================================================
+  [19] CO-REPAIR: FAQ
+================================================================================
+
+  Q: Do customers need mechanical experience?
+  A: No. Co-Repair is designed for people who want to learn at a
+     comfortable pace.
+
+  Q: Can they watch instead of helping?
+  A: Yes. Customers can choose to watch, ask questions, and learn
+     without physically helping.
+
+  Q: Can they bring a friend, spouse, or teenager?
+  A: Yes, with advance approval. One additional person maximum. Minors
+     must be accompanied by a parent/guardian.
+
+  Q: Is Co-Repair available for every repair?
+  A: No. Co-Repair is only available for repairs that are safe, practical,
+     and appropriate for a mobile setting.
+
+  Q: Will it take longer than a normal repair?
+  A: Yes. Time is built in for teaching, questions, and walkthroughs.
+     Typically twice the standard labor time.
+
+  Q: What should customers have ready before you arrive?
+  A: Vehicle accessible, keys available, safe space around the vehicle,
+     known history/symptoms ready, parts on hand if customer-supplied,
+     and permission to work at the location.
+
+  Q: Do customers need their own tools?
+  A: No. CoBay provides all tools needed. Customers can request a
+     beginner tool list if interested.
+
+  Q: Can customers record the session?
+  A: Recording may be allowed with permission, as long as it does not
+     interrupt safety or the repair process.
+
+
+================================================================================
+  [20] TONE & STYLE GUIDE
+================================================================================
+
+  Overall Tone:
+    Professional, friendly, transparent, educational, community-centered,
+    practical, and empowering. Knowledgeable without talking down to people.
+
+  Words & Phrases to USE Often:
+    - Co-Repair
+    - Mobile maintenance
+    - Community
+    - Confidence
+    - Learn with us
+    - Honest communication
+    - Practical skills
+    - Book Now
+    - Maintaining your vehicle
+    - Empowering you
+
+  Words & Phrases to AVOID:
+    - "Cheap" or "discount" language
+    - Careless or gimmicky tone
+    - Anything suggesting 24/7 emergency roadside repair
+    - Claiming certifications, insurance, warranties, or guarantees
+      beyond what is confirmed
+
+
+================================================================================
+  [21] CONTACT INFORMATION
+================================================================================
+
+  Phone:        912-325-3646 — call or text
+  Email:        service@cobayauto.com
+  Address:      Do NOT list — use service area description instead.  ⚠ NEEDS REVIEW
+  Social Media: Links to be added once accounts are confirmed (Facebook,
+                Instagram, TikTok, YouTube, Google Business Profile).
+  Domain:       cobayauto.com
+                Suggested structure: /mobile and /co-repair pages
+
+
+================================================================================
+  [22] CALLS TO ACTION (CTA)
+================================================================================
+
+  Primary CTA on every page:
+    Book Now OR Request a Mobile Service Estimate
+
+  Approved CTA Wording:
+    - "Book Now"
+    - "Call or Text 912-325-3646"
+    - "Request Mobile Service"
+    - "Ask About Co-Repair"
+
+
+================================================================================
+  [23] ITEMS NEEDING REVIEW BEFORE PUBLISHING
+================================================================================
+
+  The following items were flagged as "Needs Review" in the questionnaire.
+  Confirm each before the website goes live:
+
+  [ ] Business hours — confirm exact appointment windows as scheduling opens.
+  [ ] Company founded date — confirm exact date for public listing.
+  [ ] Repair count / customers served — do NOT publish until verified.
+  [ ] Insurance wording — confirm exact public-facing language.
+  [ ] Diagnostic fee — confirm if it is waived when a repair is booked.
+  [ ] Oil change starting price — confirm final published price.
+  [ ] Brake service price — confirm final published price.
+  [ ] Battery replacement price — confirm final published price.
+  [ ] Starter replacement price — confirm final published price.
+  [ ] Alternator replacement price — confirm final published price.
+  [ ] Tune-up price — confirm final published price.
+  [ ] Medium/heavy-duty brands — confirm if scope expands at launch.
+  [ ] Equipment brands — confirm if scope expands at launch.
+  [ ] Booking system — confirm how customers request service when live.
+  [ ] Booking form fields — confirm required info fields for the form.
+  [ ] Co-Repair hourly rate — confirm final rate before publishing.
+  [ ] Business address — confirm whether to list or use service area only.
+  [ ] Social media links — add confirmed URLs once accounts are set up.
+
+================================================================================
+  END OF DOCUMENT
+  CoBay Auto Mobile Maintenance | cobayauto.com | 912-325-3646
+================================================================================

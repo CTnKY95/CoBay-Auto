@@ -44,6 +44,8 @@ if(navToggle){
 
     navLinks.classList.toggle('show');
 
+    navToggle.classList.toggle('active');
+
   });
 
 }
