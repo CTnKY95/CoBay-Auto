@@ -276,6 +276,30 @@ section {
   display: flex;
   font-size: 0.95rem;
   gap: 0.5rem;
+  color: inherit;
+  text-decoration: none;
+  transition:color 0.25s ease;
+}
+
+.contact-item a{
+  color: inherit;
+  font: inherit;
+  font-size: 1rem;
+  font-weight: 600;
+  text-decoration: none;
+  letter-spacing: .5px;
+}
+
+.contact-item a:visited {
+  color: var(--green-bright);
+}
+
+.contact-item a:hover {
+  color: var(--white)
+}
+
+.contact-item:hover {
+  color: var(--green-bright);
 }
 
 .contact-item img{
