@@ -1803,3 +1803,59 @@ video,
 iframe {
   max-width: 100%;
 }
+
+
+
+/* MOBILE FLOATING BOOK BUTTON */
+
+.mobile-book-btn{
+  display:none;
+}
+
+@media(max-width:768px){
+
+  .mobile-book-btn{
+    position:fixed;
+
+    bottom:20px;
+    left:50%;
+
+    transform:translateX(-50%);
+
+    z-index:9999;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+    width:calc(100% - 2rem);
+    max-width:340px;
+
+    padding:16px 20px;
+
+    border-radius:18px;
+
+    background:
+      linear-gradient(
+        135deg,
+        var(--green),
+        var(--green2)
+      );
+
+    color:black;
+
+    font-weight:900;
+    font-size:.95rem;
+
+    letter-spacing:2px;
+    text-transform:uppercase;
+
+    text-decoration:none;
+
+    box-shadow:
+      0 10px 30px rgba(57,255,20,.35);
+
+    backdrop-filter:blur(12px);
+  }
+
+}
