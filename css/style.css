@@ -278,6 +278,12 @@ section {
   gap: 0.5rem;
 }
 
+.contact-item img{
+  width:18px;
+  height:18px;
+  object-fit:contain;
+}
+
 .contact-row {
   display: flex;
   flex-wrap: wrap;
@@ -744,6 +750,10 @@ section {
   text-transform: uppercase;
 }
 
+.nav-logo .logo-green{
+  color: var(--green);
+}
+
 .nav-logo img {
   height: 48px;
   object-fit: contain;
@@ -935,11 +945,14 @@ section {
 .svc-card {
   background: var(--charcoal);
   display: flex;
-  flex-direction: column;
-  gap: 0.8rem;
-  padding: 2.4rem;
+  flex-direction: row;
+  align-items: stretch;
+  gap: 0;
+  padding: 0;
   position: relative;
-  transition: background 0.25s;
+  overflow: hidden;
+  border-radius: 22px;
+  transition: background .25s ease;
 }
 
 .svc-card.featured {
@@ -968,14 +981,45 @@ section {
 
 .svc-grid {
   display: grid;
-  gap: 2px;
+  gap: 1rem;
   grid-template-columns: repeat(2, 1fr);
   margin: 0 auto;
-  max-width: 1200px;
+  max-width: 1400px;
 }
 
 .svc-icon {
   font-size: 1.7rem;
+}
+
+.svc-image{
+  width:320px;
+  min-width:320px;
+  position:relative;
+  overflow:hidden;
+  border-right:1px solid rgba(57,255,20,.12);
+}
+
+.svc-image img{
+  position:absolute;
+  inset:0;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  transition:
+    transform .6s ease;
+}
+
+.svc-card:hover .svc-image img{
+  transform:scale(1.05);
+}
+
+.svc-content{
+  flex:1;
+  padding:2.4rem;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  gap:1rem;
 }
 
 .svc-list {
@@ -1160,6 +1204,16 @@ section {
   .svc-grid,
   .steps-grid {
     grid-template-columns: 1fr 1fr;
+  }
+
+  .svc-card{
+    flex-direction:column;
+  }
+
+  .svc-image{
+    width:100%;
+    min-width:100%;
+    height:240px;
   }
 
   footer {
@@ -1484,6 +1538,11 @@ section::before{
     padding-top: 180px;
   }
 
+  .two-col{
+    grid-template-columns:1fr;
+    gap:2rem;
+  }
+
 }
 
 /* ══════════════════════════════════════════
@@ -1661,6 +1720,11 @@ section::before{
     width:100%;
     height:100%;
     object-fit:cover;
+  }
+
+  .two-col{
+    grid-template-columns:1fr;
+    gap:2rem;
   }
 
   img,
