@@ -49,3 +49,20 @@ if(navToggle){
   });
 
 }
+
+/* CLOSE MOBILE NAV ON LINK CLICK */
+
+const mobileLinks =
+  document.querySelectorAll('.nav-links a');
+
+mobileLinks.forEach((link) => {
+
+  link.addEventListener('click', () => {
+
+    navLinks.classList.remove('show');
+
+    navToggle.classList.remove('active');
+
+  });
+
+});
