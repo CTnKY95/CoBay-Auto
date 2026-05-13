@@ -744,6 +744,10 @@ section {
   list-style: none;
 }
 
+.nav-links .logo-green{
+  color: var(--green) !important;
+}
+
 .nav-links a {
   border-bottom: 2px solid transparent;
   color: rgba(245, 245, 240, 0.8);
@@ -934,6 +938,21 @@ section {
 .step {
   background: var(--charcoal);
   padding: 2.5rem 2rem;
+  border-left: 
+    4px solid var(--green);
+  border-radius: 18px;
+  transition:
+    transform .25s ease,
+    border-color .25s ease,
+    box-shadow .25s ease;
+}
+
+.step:hover{
+  transform:translateX(6px);
+  border-left-color:
+    var(--green-bright);
+  box-shadow:
+    0 10px 30px rgba(0,0,0,.25);
 }
 
 .step h3 {
@@ -960,10 +979,13 @@ section {
 }
 
 .steps-grid {
-  display: grid;
-  gap: 2px;
-  grid-template-columns: repeat(4, 1fr);
-  margin-top: 2.5rem;
+  display:grid;
+  grid-template-columns:1fr;
+  gap:1.5rem;
+  margin-top:2.5rem;
+  max-width:900px;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 .svc-card {
@@ -1165,8 +1187,11 @@ section {
 }
 
 .wrap {
-  margin: 0 auto;
-  max-width: 1200px;
+  margin:0 auto;
+  max-width:1200px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
 }
 
 /* ══════════════════════════════════════════
