@@ -615,3 +615,22 @@
   END OF DOCUMENT
   CoBay Auto Mobile Maintenance | cobayauto.com | 912-325-3646
 ================================================================================
+
+
+
+
+[x] Mobile Oil Service: Conventional $70, Synthetic $85 (includes oil & filter, up to 5 ats) 
+[ ] Tire Rotation: $30
+[x] Battery Replacement: $60 labor
+[ ] Fluid Services (Coolant, Transmission, Brake, Power steering,Differential): Starting at $100 Labor only
+[ ] Spark Plug Replacement: $150-$250 labor
+[ ] Brake Pad Replacement: $140 labor per axel 
+	[ ] Starting price $215-$250 with parts
+[ ] Pads & Rotors: $220 labor/axel
+	[ ] Starting price $300-$400 with parts
+[ ] Diagnositc Service: $100 first hr, $85/hr afterwards 
+[ ] CO-REPAIR $125 per hour (2 hr minimum booking
+[ ] Pre-Purchase Inspection: $120
+[ ] Quick Check / Second Opinion Service (SOS): $70
+[ ] A/C system check (Pressure check, system function check, Cabin filter replacement, 1oz max refrigerant top off): $125
+[ ] Minor repairs: $100/hr labor rate

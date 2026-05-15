@@ -142,6 +142,7 @@ section {
   background: transparent;
   border: 2px solid rgba(245, 245, 240, 0.28);
   color: var(--white);
+  border-radius: 10px;
 }
 
 .btn-ghost:hover {
@@ -160,6 +161,7 @@ section {
   box-shadow:
     0 0 20px rgba(57,255,20,.25);
   transition:all .3s ease;
+  border-radius: 10px;
 }
 
 .btn-primary:hover{
@@ -179,7 +181,7 @@ section {
   backdrop-filter: blur(12px);
   background: rgba(18, 18, 18, .72);
   border: 1px solid rgba(57, 255, 20, .12);
-  border-radius: 20px;
+  border-radius: 10px;
   padding: 2.2rem;
   transition:
     transform .35s ease,
@@ -366,6 +368,7 @@ section {
   border-top: 3px solid transparent;
   padding: 2rem;
   transition: border-color 0.25s, transform 0.25s;
+  border-radius: 10px;
 }
 
 .diag-card:hover {
@@ -508,6 +511,7 @@ section {
   display: flex;
   flex-direction: column;
   gap: 0.45rem;
+  border-radius: 10px;
 }
 
 .form-group input,
@@ -823,7 +827,7 @@ section {
   width:100%;
   aspect-ratio:3/4;
   overflow:hidden;
-  border-radius:18px;
+  border-radius:10px;
   border:
     1px solid rgba(57,255,20,.18);
   background:#111;
@@ -874,6 +878,7 @@ section {
   gap: 1.5rem;
   margin-bottom: 2.5rem;
   padding: 1rem 1.8rem;
+  border-radius: 10px;
 }
 
 .rate-div {
@@ -940,7 +945,7 @@ section {
   padding: 2.5rem 2rem;
   border-left: 
     4px solid var(--green);
-  border-radius: 18px;
+  border-radius: 10px;
   transition:
     transform .25s ease,
     border-color .25s ease,
@@ -957,7 +962,7 @@ section {
 
 .step h3 {
   color: var(--white);
-  font-size: 0.95rem;
+  font-size: 1rem;
   font-weight: 700;
   letter-spacing: 1px;
   margin-bottom: 0.65rem;
@@ -974,7 +979,7 @@ section {
 
 .step p {
   color: rgba(245, 245, 240, 0.58);
-  font-size: 0.88rem;
+  font-size: 1.25rem;
   line-height: 1.7;
 }
 
@@ -997,7 +1002,7 @@ section {
   padding: 0;
   position: relative;
   overflow: hidden;
-  border-radius: 22px;
+  border-radius: 10px;
   transition: background .25s ease;
 }
 
@@ -1148,6 +1153,7 @@ section {
   border: 1px solid rgba(74, 124, 89, 0.2);
   padding: 2.5rem;
   position: relative;
+  border-radius: 10px;
 }
 
 .topic-panel::before {
