@@ -202,5 +202,28 @@
   </footer>
 
   <script src="js/main.js"></script>
+
+  <div class="urgency-widget" id="urgencyWidget">
+    <button class="urgency-toggle" id="urgencyToggle">
+      ⚠ Repair Check
+    </button>
+    <div class="urgency-panel">
+      <h3>Repair Urgency Meter</h3>
+      <p>Select any symptoms your vehicle has:</p>
+      <label><input type="checkbox" value="1"> Check engine light</label>
+      <label><input type="checkbox" value="3"> Overheating</label>
+      <label><input type="checkbox" value="3"> Grinding brakes</label>
+      <label><input type="checkbox" value="2"> Hard starting</label>
+      <label><input type="checkbox" value="3"> Fluid leak</label>
+      <label><input type="checkbox" value="2"> Battery dying</label>
+      <button id="calculateUrgency">
+        Check Vehicle Status
+      </button>
+      <div class="urgency-result" id="urgencyResult">
+        Select symptoms above
+      </div>
+    </div>
+  </div>
+
 </body>
 </html>

@@ -72,7 +72,7 @@
       <div class="svc-grid">
         <div class="svc-card reveal">
           <div class="svc-image">
-            <img src="images/diagnostic.jpeg" alt="Brake Service">
+            <img src="images/diagnostic.jpeg" alt="Diagnostic Service">
           </div>
           <div class="svc-content">
             <div class="svc-top"><span class="svc-icon"></span><span class="svc-price">$100/HR</span></div>
@@ -88,7 +88,7 @@
 
         <div class="svc-card featured reveal">
           <div class="svc-image">
-            <img src="images/oil.jpeg" alt="Brake Service">
+            <img src="images/oil.jpeg" alt="Oil Change Service">
           </div>
           <div class="svc-content">
             <div class="hot-tag">Most Booked</div></br>
@@ -106,7 +106,7 @@
 
         <div class="svc-card reveal">
           <div class="svc-image">
-            <img src="images/battery.jpeg" alt="Brake Service">
+            <img src="images/battery.jpeg" alt="Battery Service">
           </div>
           <div class="svc-content">
             <div class="svc-top"><span class="svc-icon"></span><span class="svc-price">Starting at $60</span></div>
@@ -137,7 +137,7 @@
 
         <div class="svc-card reveal">
           <div class="svc-image">
-            <img src="images/tuneup.jpeg" alt="Brake Service">
+            <img src="images/tuneup.jpeg" alt="Tune-Up Service">
           </div>
           <div class="svc-content">
             <div class="svc-top"><span class="svc-icon"></span><span class="svc-price">Starting at $150</span></div>
@@ -153,7 +153,7 @@
 
         <div class="svc-card reveal">
           <div class="svc-image">
-            <img src="images/coolant.jpeg" alt="Brake Service">
+            <img src="images/coolant.jpeg" alt="Cooling System Service">
           </div>
           <div class="svc-content">
             <div class="svc-top"><span class="svc-icon"></span><span class="svc-price">Starting at $100</span></div>
@@ -169,7 +169,7 @@
 
         <div class="svc-card reveal">
           <div class="svc-image">
-            <img src="images/alternator.jpeg" alt="Brake Service">
+            <img src="images/alternator.jpeg" alt="Alternator Service">
           </div>
           <div class="svc-content">
             <div class="svc-top"><span class="svc-icon"></span><span class="svc-price">Starting at $200</span></div>
@@ -184,7 +184,7 @@
 
         <div class="svc-card reveal">
           <div class="svc-image">
-            <img src="images/customrepair.jpeg" alt="Brake Service">
+            <img src="images/customrepair.jpeg" alt="Custom Repair">
           </div>
           <div class="svc-content">
             <div class="svc-top"><span class="svc-icon"></span><span class="svc-price">$100/HR</span></div>
@@ -242,5 +242,28 @@
   </footer>
 
   <script src="js/main.js"></script>
+
+  <div class="urgency-widget" id="urgencyWidget">
+    <button class="urgency-toggle" id="urgencyToggle">
+      ⚠ Repair Check
+    </button>
+    <div class="urgency-panel">
+      <h3>Repair Urgency Meter</h3>
+      <p>Select any symptoms your vehicle has:</p>
+      <label><input type="checkbox" value="1"> Check engine light</label>
+      <label><input type="checkbox" value="3"> Overheating</label>
+      <label><input type="checkbox" value="3"> Grinding brakes</label>
+      <label><input type="checkbox" value="2"> Hard starting</label>
+      <label><input type="checkbox" value="3"> Fluid leak</label>
+      <label><input type="checkbox" value="2"> Battery dying</label>
+      <button id="calculateUrgency">
+        Check Vehicle Status
+      </button>
+      <div class="urgency-result" id="urgencyResult">
+        Select symptoms above
+      </div>
+    </div>
+  </div>
+
 </body>
 </html>
