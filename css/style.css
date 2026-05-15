@@ -1973,3 +1973,30 @@ iframe {
   }
 
 }
+
+/* ══════════════════════════════════════════
+   MOBILE FLOATING FIXES
+══════════════════════════════════════════ */
+
+@media (max-width:768px){
+
+  .mobile-book-btn{
+    bottom:20px;
+    z-index:9999;
+  }
+
+  .urgency-widget{
+    bottom:95px;
+    right:14px;
+
+    transform:scale(.92);
+    transform-origin:bottom right;
+
+    z-index:9998;
+  }
+
+  .urgency-panel{
+    width:min(90vw, 340px);
+  }
+
+}

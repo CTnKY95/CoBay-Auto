@@ -27,7 +27,7 @@ if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
 }
 
 // Change this to the email address where you want messages sent.
-$to = "chase.a.toy@gmail.com";
+$to = "service@cobayauto.com";
 
 $subject = "New Contact Form Message from CoBay Auto Website";
 
